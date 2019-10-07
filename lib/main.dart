@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:messenger/pages/conversation_list.dart';
 
 void main() => runApp(MyApp());
 
@@ -11,11 +12,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Scaffold(
-        body: Center(
-          child: Text('Hello World'),
-        ),
-      ),
+      home: ConversationPageList(),
     );
   }
 }
