@@ -1,6 +1,7 @@
-# messenger
+# Messenger
 
-A new Flutter project.
+A Chat app build with Flutter and Firebase using BLOC pattern
+Thanks to Aditya Gurjar
 
 ## Getting Started
 
