@@ -1,5 +1,7 @@
 # Messenger
 
+[![Build Status](https://travis-ci.org/munashif-muhsin/messenger.png?branch=master)](https://travis-ci.org/munashif-muhsin/messenger)
+
 A Chat app build with Flutter and Firebase using BLOC pattern
 Thanks to Aditya Gurjar
 
